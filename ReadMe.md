@@ -1,17 +1,14 @@
-##Run using the commands
+#Run using the commands
 
 $ g++ game.cpp  -lm -lglut -lGL -lGLU
 
-##controls
+#controls
 
 *Mouse movement
-
 *Keyboard
- 
-    Left: a
-    Right: d
+  Left: a
+  Right: d
 
-
-##Stop game
+#Stop game
 
 Press ESC button 
